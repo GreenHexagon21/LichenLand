@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4da76a9b38cdbf641b70424dff759efc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - topMap: {instanceID: 0}
+  - botMap: {instanceID: 0}
+  - topTile: {instanceID: 0}
+  - botTile: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
